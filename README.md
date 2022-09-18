@@ -2,7 +2,7 @@
 
 The document template was created as one of ```https://www.frontendmentor.io/``` challenges. The frontendmentor application shares assets to code webpage by yourself.
  
-This is one was one of my first frontend project done from scratch. 
+This is one was one of my first frontend project done from scratch. Website is responsive.
 
 ## Demo
 
@@ -22,6 +22,4 @@ Home page:
 
 ![main](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main.webp?raw=true)
 
-Responsive:
 
-![main](main-resp.webp)

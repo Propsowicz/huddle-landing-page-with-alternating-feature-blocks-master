@@ -20,8 +20,8 @@ This is one was one of my first frontend project done from scratch.
 
 Home page:
 
-![main](https://github.com/Propsowicz/interactive-rating-component-main/blob/main/intr-1.webp?raw=true)
+![main](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main.webp?raw=true)
 
 Responsive:
 
-![ty](https://github.com/Propsowicz/interactive-rating-component-main/blob/main/intr-2.webp?raw=true)
+![ty](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main-resp.webp?raw=true)

@@ -24,4 +24,4 @@ Home page:
 
 Responsive:
 
-![resp](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main-resp.webp?raw=true)
+![main](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main-resp.webp?raw=true)

@@ -7,7 +7,7 @@ This is one was one of my first frontend project done from scratch.
 ## Demo
 
 ```bash
-(https://propsowicz.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
+[link](https://propsowicz.github.io/huddle-landing-page-with-alternating-feature-blocks-master/)
 ```
 
 ## Technologies

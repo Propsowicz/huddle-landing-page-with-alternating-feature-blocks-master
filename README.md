@@ -24,4 +24,4 @@ Home page:
 
 Responsive:
 
-![main](main-resp.webp)
+![main](main.webp)
